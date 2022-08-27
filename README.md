@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nyamekesse Samuel</h1>
 <h3 align="center">A passionate software developer with project managerial skills and a never-ending drive to improve my skills. Mainly focuses on developing web applications with React js, Redux, and React Material UI for frontend and either Flask or Node js for backend with a relational database system specifically PostgreSQL or non-relational database specifically Mongo DB as the backing database. Also an aspiring android developer with Kotlin. Loves to design cutting-edge UI/UX prototypes with 𝗔𝗱𝗼𝗯𝗲 𝗫𝗗 to improve the looks and feel of the applications developed.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyamekesse" alt="nyamekesse" /></a> </p>
-
 - 🔭 I’m currently working on **a personal project preparing to be launched soon.**
 
 - 🌱 I’m currently learning **Kotlin for Android development**
