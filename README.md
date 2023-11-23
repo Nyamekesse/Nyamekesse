@@ -1,1 +1,1 @@
-<img src="https://github.com/Nyamekesse/Nyamekesse/assets/61396955/993da064-e0f5-49d1-8ff1-04bce2f22e21" width="100%"/>
+![profile-gif](https://github.com/Nyamekesse/Nyamekesse/assets/61396955/78ea0e18-1e81-482f-b7b5-7d18a69f4d8b)
